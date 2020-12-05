@@ -13,5 +13,5 @@ def kLargest(arr, n, k):
 #[hp._heappop_max(q) for i in range(len(q))]  
 N = 7
 K = 3
-Arr = [1, 23, 12, 9, 30, 2, 50]
+Arr = [1, 23, 12, 9, 30, 2, 50, 89]
 print(kLargest(Arr, N, K))
