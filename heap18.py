@@ -1,6 +1,6 @@
 def solve(arr, n):
     import heapq
-        # code here
+       
     arr.sort()    
     a, b = 0,0
             
